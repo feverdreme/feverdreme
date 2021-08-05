@@ -44,3 +44,4 @@
 - pandas
 - matplotlib
 
+<img src="https://imgs.xkcd.com/comics/wisdom_of_the_ancients.png" />

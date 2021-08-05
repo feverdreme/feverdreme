@@ -1,16 +1,39 @@
-### Hi there 👋
+### 👨‍💻 Jeffrey H 👨‍💻
 
-<!--
-**feverdreme/feverdreme** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://github-readme-stats.vercel.app/api?username=feverdreme&theme=tokyonight&show_icons=true" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=feverdreme&layout=compact&theme=tokyonight&langs_count=5" />
 
-Here are some ideas to get you started:
+#### Languages Proficient In
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- C / C++
+- Python (including 3.10b)
+- Typescript / HTML / CSS
+
+#### Technologies Proficient In
+
+- React
+- Express
+- Discord.py
+- REST
+- Webpack
+
+#### Other Programming Skills
+
+- Competitive / Algorithmic Programming
+- ML and Deep Learning
+- CTFs and Cybersecurity
+- API Architecture
+- git and linux (lmao)
+- competitive programming
+- comeptitive programming
+- competitive programming
+- breathing
+
+##### The usual stuff with ML
+
+- Tensorflow
+- sklearn
+- numpy
+- pandas
+- matplotlib
+

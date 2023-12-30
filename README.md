@@ -13,34 +13,34 @@ Welcome, I'm a student at **Cornell University** 🐻 studying Computer Science,
 
 ### General Proficiency
 
-<img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
-<img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
-<img alt="Linux" src="https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=white" />
-<img alt="ArchLinux" src="https://img.shields.io/badge/-ArchLinux-1793D1?style=flat-square&logo=archlinux&logoColor=white" />
+![git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=white)
+![ArchLinux](https://img.shields.io/badge/-ArchLinux-1793D1?style=flat-square&logo=archlinux&logoColor=white)
 
 ### Languages
 
-<img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
-<img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white" />
-<img alt="C" src="https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=white" />
-<img alt="Cpp" src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
-<img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-<img alt="Zsh" src="https://img.shields.io/badge/-Zsh-F15A24?style=flat-square&logo=zsh&logoColor=white" />
+![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![Sass](https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white)
+![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=white)
+![Cpp](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Zsh](https://img.shields.io/badge/-Zsh-F15A24?style=flat-square&logo=zsh&logoColor=white)
 
 ### Web Development Technologies
 
-<img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
-<img alt="NextJS" src="https://img.shields.io/badge/-NextJS-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
-<img alt="Express" src="https://img.shields.io/badge/-express-000000?style=flat-square&logo=express&logoColor=white" />
-<img alt="Styled Components" src="https://img.shields.io/badge/-Styled_Components-db7092?style=flat-square&logo=styled-components&logoColor=white" />
-<img alt="Recoil" src ="https://img.shields.io/badge/-Recoil-3578E5?style=flat-square&logo=recoil&logoColor=white" />
+![React](https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white)
+![NextJS](https://img.shields.io/badge/-NextJS-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Express](https://img.shields.io/badge/-express-000000?style=flat-square&logo=express&logoColor=white)
+![StyledComponents](https://img.shields.io/badge/-Styled_Components-db7092?style=flat-square&logo=styled-components&logoColor=white)
+![Recoil](https://img.shields.io/badge/-Recoil-3578E5?style=flat-square&logo=recoil&logoColor=white)
 
 ### Data Science and Machine Learning
 
-<img alt="Numpy" src="https://img.shields.io/badge/-Numpy-013243?style=flat-square&logo=numpy&logoColor=white" />
-<img alt="Pandas" src="https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
-<img alt="TensorFlow" src="https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
-<img alt="Sklearn" src="https://img.shields.io/badge/-sklearn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" />
+![Numpy](https://img.shields.io/badge/-Numpy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Sklearn](https://img.shields.io/badge/-sklearn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
 
 ## Experience
 

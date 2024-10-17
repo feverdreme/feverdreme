@@ -2,7 +2,7 @@
 
 ## About Me
 
-[![Linkedin Badge](https://img.shields.io/badge/-jeffreyhuang-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jeffrey-huang-b9b62a219/)](https://www.linkedin.com/in/jeffrey-huang-b9b62a219/)
+[![Linkedin Badge](https://img.shields.io/badge/-jeffreyhuang-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jeffrey-r-huang/)](https://www.linkedin.com/in/jeffrey-r-huang/)
 [![Personal Gmail Badge](https://img.shields.io/badge/-jeffreyhuang08@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:jeffreyhuang08@gmail.com)](mailto:jeffreyhuang08@gmail.com)
 [![Cornell Gmail Badge](cuemail.svg)](mailto:jrh382@cornell.edu)
 [![StackOverflow](https://img.shields.io/badge/-feverdreme-F58025?style=flat&logo=stackoverflow&logoColor=white&link=https://stackoverflow.com/users/14000710/feverdreme)](https://stackoverflow.com/users/14000710/feverdreme)

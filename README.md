@@ -44,6 +44,7 @@ Welcome, I'm a student at **Cornell University** 🐻 studying Computer Science,
 
 ## Experience
 
+- **Jun 2024 - Now** | Offensive Cyber Operations Software Engineering Intern @ [Lockheed Martin](https://www.lockheedmartin.com/en-us/index.html)
 - **Oct 2023 — Now** | Software Engineer @ [Cornell University Autonomous Underwater Vehicles](https://cuauv.org/)
 - **Oct 2023 — Now** | Full Stack Engineer @ [Big Red//Hacks](https://www.bigredhacks.com/) ([GitHub](https://github.com/bigredhacks))
 - **Jun 2023 — Aug 2023** | Offensive Cyber Operations Summer Intern @ [Lockheed Martin](https://www.lockheedmartin.com/en-us/index.html)

@@ -41,7 +41,7 @@ Welcome, I'm a student at **Cornell University** 🐻 studying Computer Science,
 ![Numpy](https://img.shields.io/badge/-Numpy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![Sklearn](https://img.shields.io/badge/-sklearn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
 
 ## Experience

@@ -7,7 +7,7 @@
 [![Cornell Gmail Badge](cuemail.svg)](mailto:jrh382@cornell.edu)
 [![StackOverflow](https://img.shields.io/badge/-feverdreme-F58025?style=flat&logo=stackoverflow&logoColor=white&link=https://stackoverflow.com/users/14000710/feverdreme)](https://stackoverflow.com/users/14000710/feverdreme)
 
-Welcome, I'm a student at **Cornell University** 🐻 studying Computer Science, Math, and Linguistics. I'm interested in researching PL theory and type theory. I've been coding for 8 years but refactoring is my favorite part.
+Welcome, I'm a student at **Cornell University** 🐻 studying Computer Science, Math, and Linguistics. I'm interested in researching PL theory and NLP.
 
 ## Programming Languages & Technologies
 
@@ -25,6 +25,7 @@ Welcome, I'm a student at **Cornell University** 🐻 studying Computer Science,
 ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=white)
 ![Cpp](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![OCaml](https://img.shields.io/badge/-OCaml-EC6813?logo=ocaml&labelColor=white)
 ![Zsh](https://img.shields.io/badge/-Zsh-F15A24?style=flat-square&logo=zsh&logoColor=white)
 
 ### Web Development Technologies
@@ -40,11 +41,13 @@ Welcome, I'm a student at **Cornell University** 🐻 studying Computer Science,
 ![Numpy](https://img.shields.io/badge/-Numpy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![Sklearn](https://img.shields.io/badge/-sklearn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
 
 ## Experience
 
-- **Jun 2024 - Now** | Offensive Cyber Operations Software Engineering Intern @ [Lockheed Martin](https://www.lockheedmartin.com/en-us/index.html)
+- **Jun 2025 - Now** | Core Technology Engineering Software Intern @ [Intuitive](https://www.intuitive.com/en-us)
+- **Jun 2024 - Aug 2024** | Offensive Cyber Operations Software Engineering Intern @ [Lockheed Martin](https://www.lockheedmartin.com/en-us/index.html)
 - **Oct 2023 — Now** | Software Engineer @ [Cornell University Autonomous Underwater Vehicles](https://cuauv.org/)
 - **Oct 2023 — Now** | Full Stack Engineer @ [Big Red//Hacks](https://www.bigredhacks.com/) ([GitHub](https://github.com/bigredhacks))
 - **Jun 2023 — Aug 2023** | Offensive Cyber Operations Summer Intern @ [Lockheed Martin](https://www.lockheedmartin.com/en-us/index.html)
